@@ -1,0 +1,12 @@
+[project]
+authors = ["pythoncrazy <pinakpaliwal07@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "image-geolocation"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+huggingface_hub = ">=0.25.2,<0.26"
